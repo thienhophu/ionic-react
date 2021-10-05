@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "ionic react",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "com.thienhophu.ionic_react",
+  "appName": "IonicReact",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
